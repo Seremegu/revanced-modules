@@ -17,7 +17,7 @@ excluded-patches = "'Announcements'"
 patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#000000 -e 'Hide Shorts components' -OhideShortsAppShortcut=true -OhideShortsWidget=true"
 version = "auto"
 riplib = true
-arch = "arm64-v8a"    
+arch = "arm-v7a"    
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
