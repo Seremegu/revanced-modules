@@ -39,7 +39,6 @@ build-mode = "apk"
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/tumblr-inc/tumblr"
 patches-source = "revanced/revanced-patches"
-integrations-source = "revanced/revanced-integrations"
 rv-brand = "revanced ReVanced"
 patches-version = "dev"
 version = "latest"
