@@ -11,7 +11,3 @@ Patches: anddea/patches-3.15.0-dev.3.rvp
 
 Patches: revanced/patches-5.47.0-dev.6.rvp  
 [Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.6)  
-
-Skipped:  
-Patches: anddea/patches-3.15.0-dev.3.rvp  
-Patches: revanced/patches-5.47.0-dev.6.rvp    
