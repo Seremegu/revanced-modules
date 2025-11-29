@@ -1,4 +1,5 @@
 Music: 8.30.54  
+Tumblr: 42.2.0.108  
 YouTube: 20.05.46  
 
 Install [Microg-RE](https://github.com/WSTxda/MicroG-RE/releases/latest) for non-root YouTube and YT Music APKs  
@@ -10,3 +11,7 @@ Patches: anddea/patches-3.15.0-dev.3.rvp
 
 Patches: revanced/patches-5.47.0-dev.6.rvp  
 [Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.6)  
+
+Skipped:  
+Patches: anddea/patches-3.15.0-dev.3.rvp  
+Patches: revanced/patches-5.47.0-dev.6.rvp    
